@@ -1,4 +1,4 @@
-# <img style="float: left;" height=64px src="https://lobbylib.cf/assets/img/code.svg"> Configurations / Features </img>
+# <img style="float: left;" height=32px src="https://lobbylib.cf/assets/img/code.svg"> Configurations / Features </img>
 <p>• Configurable lobby items, you can also set it so they execute a command when right or left clicked.</p>
 <p>• Set up a lobby spawn location.</p>
 <p>• Disable natural mob spawning in your lobby world.</p>
